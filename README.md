@@ -3,7 +3,7 @@
 ## Setup environment
 ```
 pip -m venv env
-cd .\env\Scripts\activate
+.\env\Scripts\activate
 pip install -r .\requirements.txt
  
 ```
